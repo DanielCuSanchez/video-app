@@ -1,0 +1,5 @@
+//Babel core  @babel/core
+//Babel loader babel-loader
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
