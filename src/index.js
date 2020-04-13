@@ -1,4 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HeloWorld from './components/HeloWorld'
-ReactDOM.render(<HeloWorld />, document.getElementById('root'))
+import App from './containers/App'
+
+ReactDOM.render(<App />, document.getElementById('root'))

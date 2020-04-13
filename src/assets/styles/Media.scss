@@ -1,0 +1,28 @@
+@media only screen and (max-width: 600px) {
+  .header-login {
+    display: flex;
+    justify-content: center;
+  }
+
+  .carousel {
+    overflow: scroll;
+  }
+
+  .login__container {
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  .register__container {
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+
+  .footer {
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
